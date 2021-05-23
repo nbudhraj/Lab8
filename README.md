@@ -19,7 +19,7 @@ Navika Budhraja
 
 4. What do you expect to happen if we run our puppeteer tests with the field “headless” set to true? 
    
-    If we set headless to true, none of our UI will show up.
+    If we set headless to true, the test will run without displaying the browser UI.
 
 5. What would your beforeAll callback look like if you wanted to start from the settings page before every test case? 
    
